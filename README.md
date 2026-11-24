@@ -4,45 +4,41 @@
 
 ### Computer Science student at the University of Illinois Chicago
 
-I enjoy building practical software across web development, iOS, automation, and machine learning. I'm currently studying Computer Science at UIC and creating projects that solve everyday problems and help me keep learning.
+Software Engineering concentration · GPA 3.61/4.0 · SUCCEEDS Award recipient
 
-[Portfolio](https://bakr-portfolio.vercel.app/) · [GitHub](https://github.com/bakr1233)
+I build AI, machine-learning, and iOS products, and I’m especially interested in multilingual NLP and practical applications of generative AI. My experience spans research, product development, and working with teams to turn user needs into useful software.
+
+[Portfolio](https://bakr-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/bakrbouhaya) · [GitHub](https://github.com/bakr1233)
 
 </div>
 
 ---
 
-## 🚀 Project Experience
+## Experience
 
-- **[Assignment Tracker Bot](https://github.com/bakr1233/Assignment-Tracker--Bot)** — Collects assignments from Blackboard, Canvas, Gradescope, and Pearson into Google Sheets, with scheduled updates and phone notifications.
-- **[NeetCode GPT](https://github.com/bakr1233/neetcode-gpt)** — A GPT built from scratch as part of my machine-learning studies and NeetCode course work.
-- **[Iris Model Deployment](https://github.com/bakr1233/Iris_Deployment)** — A machine-learning project focused on deploying an Iris classifier with Streamlit.
-- **[Portfolio](https://bakr-portfolio.vercel.app/)** — A home for my work and projects.
+- **ML Student Developer — AbbVie Tech in Residence** · Built a multi-agent application for R&D teams to synthesize and query reports. Developed a React and Python feedback pipeline with ChromaDB and two Ollama agents, helping users refine reports 5–10× faster. Interviewed 10 Business Technology Solutions employees to inform the product design.
+- **Research Assistant — Algoverse** · Developed a reproducible Python pipeline for multilingual riddle generation and evaluation across five languages and three LLMs. Created Adaptive Originality Filtering, reaching Distinct-2 of 0.915 and Self-BLEU of 0.177; the work was accepted at the COLM 2025 Workshop (WMDQS). Built an evaluation suite whose RiddleScore correlated 0.83 with human ratings.
+- **NLP Research Intern — UIC** · Reviewed 25+ papers and evaluated 10+ datasets for multilingual and low-resource language research, identifying data gaps in Tamazight and dialectal Arabic.
 
-## 💻 Languages & Technologies
+## Selected Projects
 
-<div align="center">
+- **Signa** · Built a real-time ASL translator with Apple Vision and Core ML that recognizes 24+ signs using 7-of-10-frame voting. Added bidirectional translation with a SceneKit avatar and an 82-entry gesture lexicon. Selected for the 2026 Code + Create App Accelerator.
+- **WiseAI** · Built an iOS app with a Python backend and mood-analysis engine that personalizes quotes from a dataset of 500,000+ entries. Led adaptive mood-detection work that improved accuracy by 15%; showcased at the 2025 Code + Create Competition.
+- **Federal Funds Rate Forecasting** · Developed a time-series ML pipeline with CatBoost, XGBoost, and Random Forest. Feature engineering reduced RMSE to 0.7097, 9% below the baseline.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Education
 
-</div>
+**University of Illinois Chicago** · B.Eng. in Computer Science, Software Engineering concentration · Expected May 2028  
+SUCCEEDS Award — $60,000 scholarship
 
-## 📊 GitHub Stats
+## Technical Skills
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bakr1233&theme=aura&hide_border=true&include_all_commits=true" width="55%" alt="Bakr's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakr1233&theme=aura&hide_border=true" width="50%" alt="Bakr's contribution streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakr1233&theme=aura&hide_border=true&layout=compact" width="36%" alt="Bakr's most-used languages" />
-</div>
+**Languages:** Python, C++, C, JavaScript, Swift, HTML/CSS  
+**Frameworks & tools:** React, Angular, Node.js, Core ML, Apple Vision, ChromaDB, Ollama, Git, GitHub  
+**Natural languages:** English, French, Arabic
 
-## 🌐 Connect
+## Leadership & Involvement
 
-- **Portfolio:** [bakr-portfolio.vercel.app](https://bakr-portfolio.vercel.app/)
-- **GitHub:** [@bakr1233](https://github.com/bakr1233)
+- Selected for the 2026 Y Combinator Startup School conference.
+- Led 15 students in designing a nine-module 3D DNA model in Blender, earning top recognition in a regional competition.
+- Association for Computing Machinery · Muslim Students Association
